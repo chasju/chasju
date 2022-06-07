@@ -12,7 +12,7 @@ When I'm not learning code I make some tiktoks, I like fashion, I own a telescop
 
 ### Project screenshots
 
-<img width="300" alt="allthingsjupiter" src="https://user-images.githubusercontent.com/91468816/172356071-dfd35ad9-afad-4298-97f0-92b06c941d0c.png">      <img width="300" alt="square-eyes" src="https://user-images.githubusercontent.com/91468816/172356241-115394d4-b3c1-44a2-8267-89f2f3233560.png">      <img width="300" alt="semester-project-2021" src="https://user-images.githubusercontent.com/91468816/172356463-2809a391-3ae3-4f61-ac8b-a185ee15e227.png">
+<img width="300" alt="allthingsjupiter" src="https://user-images.githubusercontent.com/91468816/172356071-dfd35ad9-afad-4298-97f0-92b06c941d0c.png">     <img width="300" alt="semester-project-2021" src="https://user-images.githubusercontent.com/91468816/172356463-2809a391-3ae3-4f61-ac8b-a185ee15e227.png">
 
 
 ### Contact
