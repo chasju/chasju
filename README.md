@@ -2,17 +2,10 @@
 
 Jk. I'm Charlotte.
 
-I'm a front end student who just got her first job as a web developer! Hurrah:)
-The last two years of studying this field has done nothing but get me even more excited about the path that I am on, and I aspire to become both a front end as well as back end developer.
+I'm a front end developer, currently working as a Wordpress developer.
 
 ## 🔭 
-My projects are currently a mix of html, css, vanilla javascript, reactjs and most of them are built using bootstrap. 
-
-
-
-### Portfolio
-
-[Here](https://charlottesjusdal.netlify.app) 🦋
+I love making things on the internet.
 
 
 ### Contact
